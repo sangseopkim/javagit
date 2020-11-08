@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("Test1234");
 		// 배고프다.. 밥먹고 해야지..
 		System.out.println("0000");
+		System.out.println("0000----2222");
 	}
 }
